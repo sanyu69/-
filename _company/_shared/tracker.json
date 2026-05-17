@@ -1,0 +1,64 @@
+{
+  "tasks": [
+    {
+      "id": "20260517031909-ramp",
+      "title": "모든 아트 에셋이 `Neon_Vibe_Palette` 규칙을 따르는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-17T03:19:09.236Z",
+      "status": "pending",
+      "sessionDir": "2026-05-17T03-03",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260517031909-u9wp",
+      "title": "Pro/VIP 티어는 Basic 티어 대비 시각적 복잡도(레이어 수, 이펙트 밀도)가 명확하게 증가했는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-17T03:19:09.257Z",
+      "status": "pending",
+      "sessionDir": "2026-05-17T03-03",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260517031909-sbs8",
+      "title": "코드 내의 색상 참조가 전역 변수를 통해 이루어졌는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-17T03:19:09.267Z",
+      "status": "pending",
+      "sessionDir": "2026-05-17T03-03",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260517031909-dd0j",
+      "title": "각 아트 에셋이 IAP 기능과 연결되는 메타데이터를 포함하는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-17T03:19:09.282Z",
+      "status": "pending",
+      "sessionDir": "2026-05-17T03-03",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    }
+  ]
+}
